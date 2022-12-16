@@ -1,0 +1,293 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "isa",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Tomate"
+      ],
+      "status": "Finalizado",
+      "id": 18
+    },
+    {
+      "nome": "isa",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcional": [
+        "Chadder",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 19
+    },
+    {
+      "nome": "Isabelle Ferreira Santos",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 20
+    },
+    {
+      "nome": "Isabelle Ferreira Santos",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 21
+    },
+    {
+      "nome": "isa",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Chadder",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 22
+    },
+    {
+      "nome": "joao",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Chadder",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 23
+    },
+    {
+      "nome": "Cristian Ferreira",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Chadder",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 24
+    },
+    {
+      "nome": "isa",
+      "carne": "Veggie burger",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Chadder",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 25
+    },
+    {
+      "nome": "amanda",
+      "carne": "Alcatra",
+      "pao": "Integral",
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 26
+    },
+    {
+      "nome": "jessica",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Cheddar",
+        "Pepino",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 27
+    },
+    {
+      "nome": "Miguel",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 28
+    },
+    {
+      "nome": "isa",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Salame",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 29
+    },
+    {
+      "nome": "isa",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [],
+      "status": "Solicitado",
+      "id": 30
+    },
+    {
+      "nome": "isa",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 31
+    },
+    {
+      "nome": "Isabelle Ferreira Santos",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 32
+    },
+    {
+      "nome": "Cristian Ferreira",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Cebola roxa",
+        "Salame",
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 33
+    },
+    {
+      "nome": "neto",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 34
+    },
+    {
+      "nome": "Timoteo",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Em produção",
+      "id": 35
+    },
+    {
+      "nome": "Charlow",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Tomate"
+      ],
+      "status": "Em produção",
+      "id": 37
+    }
+  ]
+}
